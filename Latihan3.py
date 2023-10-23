@@ -16,4 +16,4 @@ print("Hasil penjumlahan {0} + {1} = {2}".format(a,b, a + b))
 
 # Konversi nilai variable sudah dilakukan di atas, jadi tidak perlu dilakukan lagi
 # Perhatikan bahwa operasi pembagian akan menghasilkan float, bukan int
-print("Hasil penjualan {0} / {1} = {2:.2f}".format(a,b, a / b))
+print("Hasil pembagian {0} / {1} = {2:.2f}".format(a,b, a / b))
