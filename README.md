@@ -74,5 +74,5 @@ keyboard.
 * **.format(a,b, a / b))** digunakan untuk mengubah bilangan integer menjadi string atau untuk menggabungkan nilai variabel dengan string
 * **{2:.2f}*** digunakan untuk membatasi maksimal 2 angka setelah koma (.) pada bilangan desimal 
 
-## <font color="orange">Documentation</font>
+## Documentation
 > <p font face="Times New Roman">All associated resources are licensed under the [MIT License](https://mit-license.org/).</p>
