@@ -32,9 +32,11 @@ print("Hasil penjumlahan a+b=",a + b )
 
 ### Maka Outputnya
 <img src="screenshot/Python_Lt.2_2.png" width="500px">
+
 > **Menggunakan IDLE**
 
 <img src="screenshot/Python_Lt.2_3.png" width="500px">
+
 > Menggunakan Command Prompt
 
 ## Latihan 3
