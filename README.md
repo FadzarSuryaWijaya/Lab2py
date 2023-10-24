@@ -32,10 +32,11 @@ print("Hasil penjumlahan a+b=",a + b )
 
 ### Maka Outputnya
 <img src="screenshot/Python_Lt.2_2.png" width="500px">
-> ***Menggunakan IDLE***
+> **Menggunakan IDLE**
 
 <img src="screenshot/Python_Lt.2_3.png" width="500px">
-> ***Menggunakan Command Prompt***
+> Menggunakan Command Prompt
+
 ## Latihan 3
 * Menjalankan IDLE
 * Membuat file baru dengan nama latihan3.py (pastikan lokasi file
