@@ -29,15 +29,12 @@ print("Hasil penjumlahan a+b=",a + b )
 ```
 > <b>a  +  b</b> bisa saja ditulis menjadi <b>a+b</b> tapi penggunaan Python mempunyai standar keteraturan.
 
-
 ### Maka Outputnya
+> **Menggunakan IDLE**
 <img src="screenshot/Python_Lt.2_2.png" width="500px">
 
-> **Menggunakan IDLE**
-
+> **Menggunakan Command Prompt**
 <img src="screenshot/Python_Lt.2_3.png" width="500px">
-
-> Menggunakan Command Prompt
 
 ## Latihan 3
 * Menjalankan IDLE
