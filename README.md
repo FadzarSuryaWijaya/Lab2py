@@ -2,7 +2,7 @@
 > <strong>Sebagai tugas praktikum ke-2 | Universitas Pelita Bangsa</strong>
 
 ## <b>Laporan Praktikum</b>
-## <u>Latihan 1</u>
+## Latihan 1
 * Menjalankan Python Console
 * Menampilkan tulisan “Hello” dilayar
 * Menampilkan tulisan "Sedang Belajar Python" dilayar
@@ -14,7 +14,7 @@ Print("Sedang Belajar Python")
 ### Maka outputnya :
 <img src="screenshot/Python_Lt.1_CMD.png" width="500px">
 
-## <u>Latihan 2</u>
+## Latihan 2
 * Menjumlahkan dua buah bilangan menggunakan variabel a dan b.
 * Mendefinisikan variable a dengan nilai 8
 * Mendefinisikan variable b dengan nilai 6
@@ -36,7 +36,7 @@ print("Hasil penjumlahan a+b=",a + b )
 > **Menggunakan Command Prompt**
 <img src="screenshot/Python_Lt.2_3.png" width="500px">
 
-## <u>Latihan 3</u>
+## Latihan 3
 * Menjalankan IDLE
 * Membuat file baru dengan nama latihan3.py (pastikan lokasi file
 pada folder lab2py pada direktori kerja anda)
@@ -74,5 +74,5 @@ keyboard.
 * **.format(a,b, a / b))** digunakan untuk mengubah bilangan integer menjadi string atau untuk menggabungkan nilai variabel dengan string
 * **{2:.2f}*** digunakan untuk membatasi maksimal 2 angka setelah koma (.) pada bilangan desimal 
 
-## Documentation
+## <font color="orange">Documentation</font>
 > <p font face="Times New Roman">All associated resources are licensed under the [MIT License](https://mit-license.org/).</p>
