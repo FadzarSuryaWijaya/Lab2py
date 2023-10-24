@@ -8,7 +8,7 @@
 Print("Hello")
 ```
 ### maka outputnya
-<img src="/screenshot/Python_Lt.1_CMD.png>
+<img src="screenshot/Python_Lt.1_CMD.png">
 
 
 * Menampilkan tulisan “Saya sedang belajar python” dilayar
@@ -31,7 +31,7 @@ print("Variable b=",b )
 print("Hasil penjumlahan a+b=",a + b )
 ```
 ### maka outputnya
-<img src="/screenshot/Python_Lt.1_CMD.png>
+<img src="screenshot/Python_Lt.1_CMD.png">
 
 ## Latihan 3
 
@@ -43,5 +43,5 @@ keyboard.
 
 
 ### Maka Outputnya
-<img src ="/screenshot/python_Lt.3.png>
+<img src ="screenshot/python_Lt.3.png">
 
